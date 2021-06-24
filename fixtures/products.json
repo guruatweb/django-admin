@@ -1,0 +1,181 @@
+[{
+  "model": "products.products",
+  "pk": 1,
+  "fields":{
+			"title": "Brown eggs",
+			"description": "Raw organic brown eggs in a basket",
+			"image": "1.jpg",
+			"price": 28.1
+  }
+}, {
+  "model": "products.products",
+  "pk": 2,
+  "fields":{
+			"title": "Sweet fresh stawberry",
+			"description": "Sweet fresh stawberry on the wooden table",
+			"image": "2.jpg",
+			"price": 29.45
+	}
+}, {
+  "model": "products.products",
+  "pk": 3,
+  "fields":{
+			"title": "Asparagus",
+			"description": "Asparagus with ham on the wooden table",
+			"image": "3.jpg",
+			"price": 18.95
+  }
+}, {
+  "model": "products.products",
+  "pk": 4,
+  "fields":{
+			"title": "Green smoothie",
+			"description": "Glass of green smoothie",
+			"image": "4.jpg",
+			"price": 17.68
+  }
+}, {
+  "model": "products.products",
+  "pk": 5,
+  "fields":{
+			"title": "Raw legums",
+			"description": "Raw legums on the wooden table",
+			"image": "5.jpg",
+			"price": 17.11
+  }
+}, {
+  "model": "products.products",
+  "pk": 6,
+  "fields": {
+    "title": "Baking cake",
+    "description": "Baking cake in rural kitchen",
+    "image": "6.jpg",
+    "price": 11.14
+  }
+}, {
+  "model": "products.products",
+  "pk": 7,
+  "fields":{
+			"title": "Pesto with basil",
+			"description": "Italian traditional pesto with basil, chesse and oil",
+			"image": "7.jpg",
+			"price": 18.19
+  }
+}, {
+  "model": "products.products",
+  "pk": 8,
+  "fields": {
+    "title": "Hazelnut in black ceramic bowl",
+    "description": "Hazelnut in black ceramic bowl ",
+    "image": "8.jpg",
+    "price": 27.35
+  }
+}, {
+  "model": "products.products",
+  "pk": 9,
+  "fields": {
+    "title": "Fresh stawberry",
+    "description": "Sweet fresh stawberry on the wooden table",
+    "image": "9.jpg",
+    "price": 28.59
+  }
+}, {
+  "model": "products.products",
+  "pk": 10,
+  "fields":{
+			"title": "Lemon and salt",
+			"description": "Rosemary, lemon and salt on the table",
+			"image": "10.jpg",
+			"price": 15.79
+  }
+}, {
+  "model": "products.products",
+  "pk": 11,
+  "fields":{
+			"title": "Homemade bread",
+			"description": "Homemade bread",
+			"image": "11.jpg",
+			"price": 17.48
+  }
+}, {
+  "model": "products.products",
+  "pk": 12,
+  "fields":{
+			"title": "Legums",
+			"description": "Cooked legums on the wooden table",
+			"image": "11.jpg",
+			"price": 14.77
+  }
+}, {
+  "model": "products.products",
+  "pk": 13,
+  "fields":{
+			"title": "Fresh tomato",
+			"description": "Fresh tomato juice with basil",
+			"image": "13.jpg",
+			"price": 16.3
+  }
+}, {
+  "model": "products.products",
+  "pk": 14,
+  "fields":{
+			"title": "Healthy breakfast",
+			"description": "Healthy breakfast set.",
+			"image": "14.jpg",
+			"price": 13.02
+  }
+}, {
+  "model": "products.products",
+  "pk": 15,
+  "fields":{
+			"title": "Green beans",
+			"description": "Raw organic green beans ready to eat",
+			"image": "15.jpg",
+			"price": 28.79
+	}
+}, {
+  "model": "products.products",
+  "pk": 16,
+  "fields":{
+			"title": "Baked stuffed portabello mushrooms",
+			"description": "Homemade baked stuffed ",
+			"image": "16.jpg",
+			"price": 20.31
+  }
+}, {
+  "model": "products.products",
+  "pk": 17,
+  "fields":{
+			"title": "Strawberry jelly",
+			"description": "Homemade organic strawberry jelly in a jar",
+			"image": "17.jpg",
+			"price": 14.18
+  }
+}, {
+  "model": "products.products",
+  "pk": 18,
+  "fields":{
+			"title": "Pears juice",
+			"description": "Fresh pears juice on the wooden table",
+			"image": "17.jpg",
+			"price": 19.49
+  }
+}, {
+  "model": "products.products",
+  "pk": 19,
+  "fields":{
+			"title": "Fresh pears",
+			"description": "Sweet fresh pears on the wooden table",
+			"image": "19.jpg",
+			"price": 15.12
+  }
+}, {
+  "model": "products.products",
+  "pk": 20,
+  "fields":{
+			"title": "Caprese salad",
+			"description": "Homemade healthy caprese salad",
+			"image": "20.jpg",
+			"price": 16.76
+  }
+}]
